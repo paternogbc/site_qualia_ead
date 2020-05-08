@@ -57,7 +57,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv_milena.pdf
+  link: "https://drive.google.com/file/d/1CTy2EeOfbYTiNACqmcNr-VQNvD_nLwsk/view?usp=sharing"
   
 user_groups:
 - Especialistas
@@ -76,5 +76,4 @@ user_groups:
 **P**esquisadora do LACAM/FAU/UnB pela Eletrobrás de 2009 a 2016 na temática Eficiência Energética de Edifícios. Capacitada nos treinamentos do PROCEL/Eletrobrás de etiquetagem de eficiência energética PBE-Edifica. Foi professora de graduação por 3 anos (2016-218) de conforto ambiental e Iluminação Natural. Atualmente é professora de disciplinas de qualidade ambiental, conforto, projetos bioclimáticos e sustentáveis, na pós graduação (IPOG). É Gerente Técnica da Quali-A e do Organismo de Inspeção Acreditado pelo Inmetro em Brasília. Na Quali-A coordena consultorias de eficiência energética de edifícios, utilizando softwares como Design Builder, Relux e Dialux. Também ministra cursos EAD de Formação de Consultor de Etiquetagem Comercial, Residencial, Software Dialux e Design Builder, incluindo o planejamento, preparação de material didático e gravação de aulas online. 
 
 
-<a href="https://drive.google.com/drive/folders/1g5kjlTKY23RU_eRfBEIb2e6PChV73v0c?usp=sharing" target="_blank">Comprovantes de Currículo</a>
-
+**[Comprovantes de Currículo](https://drive.google.com/file/d/1aUw00Q9k2SY3VtIFpJmNuqZH-wG15Eix/view?usp=sharing)**

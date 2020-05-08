@@ -63,8 +63,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv_ludmila.pdf
-  
+  link: "https://drive.google.com/file/d/1wqahOD0gbemouljkdmjex-1L5r3puW4W/view?usp=sharing"
 user_groups:
 - Especialistas
 ---
@@ -82,4 +81,4 @@ user_groups:
 **A**tuação na área de habitação social e conforto ambiental em pesquisas e monitorias no LABHAB/UFRJ. Participou do Projeto Comunidade Eficiente (convênio entre o PROARQ/FAU/UFRJ e a Companhia Ligth RJ), com elaboração de manual de conforto e eficiência energética em HIS. É professora no UNICEUB, orienta pesquisas na temática de HIS e coordena o projeto Morada de Luz (assistência técnica a famílias em Área de Regularização de Interesse Social - ARIS). Participa dos coletivos de Direito à moradia (Panã Arquitetura Social) e Direito à cidade (Agenda Popular do Território e Projeto Brasil Cidades, Núcleo DF).  Coordenou o projeto de arquitetura do Mutirão de Bioconstrução Maria da Penha, em Nova Petrópolis - Planaltina/DF, bem como acompanhou a construção das casas em processo de mutirão. 
 
 
-**[Comprovantes de Currículo]()**
+**[Comprovantes de Currículo](https://drive.google.com/file/d/10cnsHKrykRLttBnr-9S7GnRTElWxMiab/view?usp=sharing)**

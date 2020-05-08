@@ -21,4 +21,4 @@ subtitle = ""
 
 Por tratar-se de uma proposta de curso para aprofundamento sobre tecnologias e conhecimentos que podem fortalecer, potencializar uma política pública voltada diretamente para população de baixa renda, a Quali-A conjuga uma equipe técnica expert que pretende trazer à luz conhecimentos sobre os mais recentes e consistentes estudos, ao mesmo tempo em que se propõe a gerar conteúdo e debates para garantir a formação de profissionais com visão crítica e sensível sobre a realidade da população a ser atendida. 
 
-**[Comprovantes da Quali-a]()**
+**[Comprovantes da Quali-a](https://drive.google.com/file/d/1SQmAsehwqa7uOR-HYNglcWqHffjI8QGq/view)**

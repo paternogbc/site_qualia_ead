@@ -63,7 +63,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv_gustavo.pdf
+  link: "https://drive.google.com/file/d/17zs_yDhx6H8hRDxwWJOo8T1FoWUmdGey/view?usp=sharing"
   
 user_groups:
 - Especialistas
@@ -81,5 +81,5 @@ user_groups:
 
 **G**raduado em Ecologia com PhD e pós-doutorado na área ambiental, com 10 anos de experiência com modelagem computacional, estatística e análises de dados para a produção de gráficos e modelos matemáticos. Atuou como professor substituto da UFRN, ministrando disciplinas na área de Ecologia de Ecossistemas, Conservação e Método Científico. Docência para graduação e pós-graduação na UFRN, Universidade Federal de Juiz de Fora (UFJF) e Universidade Técnica de Munique (TUM, Alemanha). Atualmente é professor visitante da TUM, onde leciona disciplinas remotamente no departamento de Ecologia da restauração. Foi pesquisador visitante em universidades internacionais como a Macquarie University (MC, Austrália), Universidade Livre de Bruxelas (VUB, Bélgica) e Universidade Técnica de Munique TUM entre 2014 e 2018. 
 
-<a href="https://drive.google.com/drive/folders/1g5kjlTKY23RU_eRfBEIb2e6PChV73v0c?usp=sharing" target="_blank">Comprovantes de Currículo</a>
+**[Comprovantes de Currículo](https://drive.google.com/file/d/1pQLOUcfmy2z8QN20bjUGLc54EA7XjRb_/view?usp=sharing)**
 

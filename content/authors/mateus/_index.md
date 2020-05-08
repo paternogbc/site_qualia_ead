@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv_mateus.pdf
+  link: "https://drive.google.com/file/d/1V8hlu4drqbp5PK4DDj6JlQ1pfxWmLQR4/view?usp=sharing"
   
 user_groups:
 - Especialistas
@@ -74,5 +74,4 @@ user_groups:
 
 **A**tua na área de energia solar em 2013, onde iniciou com projeto e estudo para o Tribunal de Contas do DF. Sócio diretor da Smartly Energia Sustentável e sócio da Implanta Construções. Realiza estudos e serviços de energias renováveis, em especial a solar, e eficiência energética de edifícios. Experiência no desenvolvimento e instalação de mais de 180 projetos fotovoltaicos,  totalizando mais de 6 MW de potência instalada e milhares de estudos de viabilidade financeira e simulações computacionais de sistemas fotovoltaicos de todas as potências e perfis, utilizando softwares líderes no mercado, como PVSyst e Helioscope.
 
-<a href="https://drive.google.com/drive/folders/1g5kjlTKY23RU_eRfBEIb2e6PChV73v0c?usp=sharing" target="_blank">Comprovantes de Currículo</a>
-
+**[Comprovantes de Currículo](https://drive.google.com/file/d/1B2W-d8-Y6grTJq-12v_tAsa16a1OH7AP/view?usp=sharing)**

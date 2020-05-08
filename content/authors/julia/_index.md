@@ -61,7 +61,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv_julia.pdf
+  link: "https://drive.google.com/file/d/1yaYzJ8IqiDtiAp75rwUDKnMI-Pi6qWkv/view?usp=sharing"
   
 user_groups:
 - Coordenadora
@@ -80,4 +80,4 @@ user_groups:
 **P**esquisadora desde 2009, participou como bolsista da capacitação do laboratório no processo de etiquetagem, tendo sido capacitada em todos os treinamentos do PROCEL/Eletrobrás específicos para a Rede 3E (RTQ-C, RAC-C, RTQ-R e RAC-R). Coordenou diversas consultoria e pesquisas acadêmicas, destacando as etiquetas já oficializadas. Docente de todos os cursos de Etiquetagem de Eficiência Energética de Edifícios Comerciais, de Serviços e Públicos realizados pela Quali-A e LACAM/UnB; foi coordenadora pedagógica do Especialização à distância REABILITA e atualmente ministra disciplinas de Eficiência Energética, Conforto, Etiquetagem no IPOG. Atua na empresa Quali-A como responsável técnica e Gerente da Qualidade e Coordenação de Cursos.
 
 
-**[Comprovantes de Currículo]()**
+**[Comprovantes de Currículo](https://drive.google.com/file/d/1x5homTeAlVpPJxLgUWt9KQxKPzbADBz3/view?usp=sharing)**
