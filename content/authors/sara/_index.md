@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Sara Poleto
+title: Sara Poletto
 
 # Username (this should match the folder name)
 authors:
-- gustavo
+- sara
 
 weight: 5
 
@@ -12,7 +12,7 @@ weight: 5
 superuser: true
 
 # Role/position
-role: Cientista Social | Diretora Executiva Instituto Avaliação
+role: Msc. Cientista Social | Diretora Executiva Instituto Avaliação
 
 # Organizations/Affiliations
 organizations:
@@ -67,16 +67,21 @@ user_groups:
 
 **Atividades principais**: Apoiar o desenvolvimento da programação para aulas e módulos; elaborar o conteúdo técnico do material didático e guias práticos com o aprofundamento do olhar social sobre a sustentabilidade e responsabilidade social dentro de projetos e políticas públicas voltadas para populações de baixa renda; realizar gravação de vídeo aulas.
 
+### Perfil
+
+**C**ientista Social, com mestrado em Antropologia Social, especializada em Gestão de Projetos, equipes, e mediação de conflitos. Atua na Gestão de Projetos sociais e socioambientais junto a comunidades tradicionais, quilombolas, ribeirinhos. Soma a essa equipe o aprofundamento sobre sustentabilidade e responsabilidade social dentro de projetos e políticas públicas voltadas para populações de baixa renda. 
+
 ### Experiência
 
 **A**tua junto a entidades do governo brasileiro, organismos internacionais, organizações da sociedade civil, povos e comunidades tradicionais, com experiência de 15 anos em Planejamento estratégico e Gestão de Projetos, coordenação de equipes, metodologias participativas, mediação de conflitos e grupos, monitoramento e avaliação.
 
 **D**esde julho de 2018, atua na Gestão Estratégica e Coordenação de equipes do Instituto Avaliação (http://www.avaliacao.org.br), assumindo em março de 2020, o cargo de Diretora Executiva da instituição.
-Entre 2015 e 2018 esteve como consultora individual da UNESCO no Brasil, onde atou como Coordenadora de Gestão, Planejamento Estratégico e Articulação local do Projeto Pesca Sustentável na Costa Amazônica, com atuação nos estados do Amapá, Maranhão e Pará. O projeto deu destaque aos trabalhos desenvolvidos com jovens e mulheres, utilizando metodologias participativas com o desafio de promover abertura de novos processos [(link para o vídeo)](https://www.youtube.com/watch?v=CsRjbuE89ic&amp;t=188s).
+Entre 2015 e 2018 esteve como consultora individual da UNESCO no Brasil, onde atou como Coordenadora de Gestão, Planejamento Estratégico e Articulação local do Projeto Pesca Sustentável na Costa Amazônica, com atuação nos estados do Amapá, Maranhão e Pará. O projeto deu destaque aos trabalhos desenvolvidos com jovens e mulheres, utilizando metodologias participativas com o desafio de promover abertura de novos processos [(link)](https://www.youtube.com/watch?v=CsRjbuE89ic&amp;t=188s).
 
 **N**a Gestão Pública, foi coordenadora de metodologia da 1a Conferência Nacional sobre Transparência e Controle Social (promovida pela CGU), e da 4a Conferência Nacional do Meio Ambiente (promovida pelo MMA), atuando na mobilização e capacitação de equipes em nível nacional. Elaborou cartilhas e manuais, com o passo a passo de metodologias participativas em linguagem popular, que garantiram o envolvimento de mais de 200 mil pessoas em todo o País. Como consultora, já desenvolveu trabalhos com Ministério do Desenvolvimento Social;Ministério da Cultura e Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN); Ministério da Justiça; Ministério do Meio Ambiente; Ministério da Integração Nacional; Secretaria de Turismo do DF; Secretaria de Direitos Humanos de SP; e Universidade de Brasília (UnB). 
 
 **E**m dezembro de 2019, a convite da UNESCO, realizou trabalho voluntário em Havana/Cuba, como especialista em metodologias participativas e trabalho com jovens, no evento II UNESCO’s International Science School/ III Most School. Com objetivo de fortalecimento da Rede juventude pelo Meio Ambiente, países de realidade insular da América Latina e Caribe propuseram atividades para adaptação e mitigação de desastres ocorridos em decorrência das mudanças climáticas mundiais.
+
 
 <a href="https://drive.google.com/drive/folders/1g5kjlTKY23RU_eRfBEIb2e6PChV73v0c?usp=sharing" target="_blank">Comprovantes de Currículo</a>
 

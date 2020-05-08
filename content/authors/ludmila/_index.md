@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ludmila Correa
+title: Ludmila Correia
 
 # Username (this should match the folder name)
 authors:
@@ -71,16 +71,15 @@ user_groups:
 
 ## Especialista
 
-**Atividades principais**: Dar suporte ao desenvolvimento da programação e agenda; propor e elaborar as ementas e conteúdos detalhados; gravar conteúdo a ser disponibilizado; articular junto à equipe de técnicos; ser responsável pela gestão dos trabalhos e produtos e validação dos documentos finais.
+**Atividades principais**: Dar suporte ao desenvolvimento, adaptação de conteúdo para a temática e realidade das Habitações de Interesse Social.  Participar ativamente dos cursos sobre HIS, incluindo a gravação de vídeo aulas.
+
+### Perfil
+
+**A**rquiteta, Mestre e doutoranda em Projeto e Planejamento Urbano e Regional. É professora do UniCEUB; pesquisadora e coordenadora de projeto de extensão que oferece assistência técnica em habitação de interesse social; atua em coletivos voltados para a temática da habitação social.
 
 ### Experiência
 
-**I**niciou sua atuação tanto na área de habitação social quanto em conforto ambiental desde a graduação, desenvolvendo pesquisa de iniciação científica em habitação de interesse social no LABHAB/UFRJ e monitoria, por dois anos, das disciplinas de Conforto Ambiental. Foi estagiária no Projeto Comunidade Eficiente, realizado em convênio entre o PROARQ/FAU/UFRJ e a Companhia Ligth no Rio de Janeiro, com levantamento de moradias em condição de penumbra e elaboração de manual para conforto ambiental e eficiência energética em habitações de interesse social.
-
-**A**tualmente é professora no Centro Universitário de Brasília (UNICEUB), onde coordena o projeto de extensão Morada de Luz, que oferece assistência técnica em arquitetura e urbanismo a famílias de baixa renda residentes em Área de Regularização de Interesse Social (ARIS) do Distrito Federal. Na mesma instituição, orienta atualmente duas pesquisas de iniciação científica: uma voltada para avaliação de iniciativas de assistência técnica; e outra visando desenvolvimento de um protótipo de barreira acústica de baixo custo e baixo impacto ambiental, usando compósitos vegetais. É professora universitária desde 2012, tendo atuado em outras cinco instituições de ensino do DF, ministrando principalmente as disciplinas de Conforto Ambiental - Térmico, Luminoso e Acústico - e Habitação.
-
-**P**articipou de pesquisa na área de Luz Natural da Comission Internationale dell´Eclairage - CIE Brasil, na Divisão 3 - Iluminação Interior, junto ao Laboratório de Conforto Ambiental - LACAM/UnB. Também participa de coletivos voltados ao Direito à moradia (Panã Arquitetura Social) e Direito à cidade (Agenda Popular do Território e Projeto Brasil Cidades, Núcleo DF), nos quais contribui com assessoria técnica a famílias de baixa renda em Planaltina e no Sol Nascente. Coordenou o projeto de arquitetura do Mutirão de Bioconstrução Maria da Penha, em Nova Petrópolis - Planaltina/DF, bem como acompanhou a construção das casas em processo de mutirão. 
-É pesquisadora do Laboratório de Estudos da Urbe (Labeurbe-FAU-UnB) e no Grupo de Pesquisa Acústica e Poluição Ambiental (UNICEUB). É Diretora de Intercâmbio Acadêmico do Instituto de Arquitetos do Brasil (IAB/DF) e vice-coordenadora da Regional Centro-Oeste da Sociedade Brasileira de Acústica (SOBRAC). 
+**A**tuação na área de habitação social e conforto ambiental em pesquisas e monitorias no LABHAB/UFRJ. Participou do Projeto Comunidade Eficiente (convênio entre o PROARQ/FAU/UFRJ e a Companhia Ligth RJ), com elaboração de manual de conforto e eficiência energética em HIS. É professora no UNICEUB, orienta pesquisas na temática de HIS e coordena o projeto Morada de Luz (assistência técnica a famílias em Área de Regularização de Interesse Social - ARIS). Participa dos coletivos de Direito à moradia (Panã Arquitetura Social) e Direito à cidade (Agenda Popular do Território e Projeto Brasil Cidades, Núcleo DF).  Coordenou o projeto de arquitetura do Mutirão de Bioconstrução Maria da Penha, em Nova Petrópolis - Planaltina/DF, bem como acompanhou a construção das casas em processo de mutirão. 
 
 
 **[Comprovantes de Currículo]()**

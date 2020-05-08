@@ -24,16 +24,16 @@ bio:
 
 interests:
 - Experiência em programação e produção de gráficos
-- Modelagem computacional
-- Ferramentas interativas de aprendizado online
+- Ampla experiência em Docência e Pesquisa internacional
+- Desenvolvimento de ferramentas interativas de aprendizado online
 
 education:
   courses:
   - course: Pós-doutor em Ecologia
-    institution: UFJF / UFRN  
+    institution: UFJF / UFRN   
     year: 2020
   - course: Doutor em Ecologia
-    institution: UFRN /TUM / MC
+    institution: UFRN /TUM (Alemanha) / MC (Austrália) / VUB (Bélgica)
     year: 2018
   - course: Mestre em Ecologia
     institution: UFRN
@@ -71,11 +71,15 @@ user_groups:
 
 ## Especialista
 
-**Atividades principais**: 
+**Atividades principais**: Dar suporte ao desenvolvimento de conteúdos, ferramentas didáticas, análise de dados, criação de gráficos e adaptação de conteúdos para linguagem de programação.
+
+### Perfil
+
+**P**esquisador e professor de ecologia, análises de dados, simulações computacionais e ciências ambientais. Professor Visitante na Universidade Técnica de Munique (TUM, Alemanha).  
 
 ### Experiência
 
-**P**ossui 10 anos de experiência com modelagem computacional, estatística e análises de dados para a produção de gráficos e modelos matemáticos. Atuou como professor substituto da Universidade Federal do Rio Grande do Norte (UFRN) ministrando disciplinas na área de Ecologia de Ecossistemas, Conservação e Método Científico. Possui ampla experiência de docência para o nível de graduação e pós-graduação tendo atuado como professor de disciplinas nas pós-graduações da UFRN, Universidade Federal de Juiz de Fora (UFJF) e Universidade Técnica de Munique (TUM, Alemanha). Atualmente é professor visitante da TUM, onde leciona disciplinas remotamente no departamento de Ecologia da restauração. Foi pesquisador visitante em universidades internacionais como a Macquarie University (MC, Austrália), Universidade Livre de Bruxelas (VUB, Bélgica) e Universidade Técnica de Munique TUM entre 2014 e 2018. 
+**G**raduado em Ecologia com PhD e pós-doutorado na área ambiental, com 10 anos de experiência com modelagem computacional, estatística e análises de dados para a produção de gráficos e modelos matemáticos. Atuou como professor substituto da UFRN, ministrando disciplinas na área de Ecologia de Ecossistemas, Conservação e Método Científico. Docência para graduação e pós-graduação na UFRN, Universidade Federal de Juiz de Fora (UFJF) e Universidade Técnica de Munique (TUM, Alemanha). Atualmente é professor visitante da TUM, onde leciona disciplinas remotamente no departamento de Ecologia da restauração. Foi pesquisador visitante em universidades internacionais como a Macquarie University (MC, Austrália), Universidade Livre de Bruxelas (VUB, Bélgica) e Universidade Técnica de Munique TUM entre 2014 e 2018. 
 
 <a href="https://drive.google.com/drive/folders/1g5kjlTKY23RU_eRfBEIb2e6PChV73v0c?usp=sharing" target="_blank">Comprovantes de Currículo</a>
 

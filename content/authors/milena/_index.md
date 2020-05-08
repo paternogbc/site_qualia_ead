@@ -67,9 +67,14 @@ user_groups:
 
 **Atividades principais**: Dar suporte ao desenvolvimento da programação e agenda; elaborar o conteúdo técnico do material didático e guias práticos; articular junto à equipe de técnicos; ser responsável pela execução dos 4 cursos, incluindo a gravação de vídeo aulas.
 
+### Perfil
+
+**A**rquiteta, Sócia da empresa Quali-A, com mestrado na área de Sustentabilidade e Professora de Graduação e de Pós-Graduação.
+
 ### Experiência
 
-**F**oi bolsista Pesquisadora do LACAM/FAU/UnB pela Eletrobrás de 2009 a 2016 desenvolvendo pesquisas e multiplicando o conhecimento no quesito de Eficiência Energética de Edifícios. Foi capacitada em todos os treinamentos do PROCEL/Eletrobrás específicos de etiquetagem de eficiência energética PBE-Edifica. Foi professora de graduação por 3 anos (2016-218) de disciplinas de conforto ambiental para Design de Interiores e Iluminação Natural. Atualmente também é professora de diversas disciplinas com foco em qualidade ambiental, conforto, projetos bioclimáticos e sustentáve  is, na pós graduação (IPOG). É Gerente Técnica da Quali-A e do Organismo de Inspeção Acreditado pelo Inmetro em Brasília. Na Quali-A é responsável técnica pelas consultorias desenvolvidas com foco em eficiência energética de projetos de edifícios, utilizando ferramentas computacionais como Design Builder, Relux e Dialux para as atividades. É também professora dos cursos Online (Ead) de Formação de Consultor de Etiquetagem Comercial, Residencial, Software Dialux e Design Builder, incluindo o planejamento, preparação de material didático e gravação de aulas online. 
+**P**esquisadora do LACAM/FAU/UnB pela Eletrobrás de 2009 a 2016 na temática Eficiência Energética de Edifícios. Capacitada nos treinamentos do PROCEL/Eletrobrás de etiquetagem de eficiência energética PBE-Edifica. Foi professora de graduação por 3 anos (2016-218) de conforto ambiental e Iluminação Natural. Atualmente é professora de disciplinas de qualidade ambiental, conforto, projetos bioclimáticos e sustentáveis, na pós graduação (IPOG). É Gerente Técnica da Quali-A e do Organismo de Inspeção Acreditado pelo Inmetro em Brasília. Na Quali-A coordena consultorias de eficiência energética de edifícios, utilizando softwares como Design Builder, Relux e Dialux. Também ministra cursos EAD de Formação de Consultor de Etiquetagem Comercial, Residencial, Software Dialux e Design Builder, incluindo o planejamento, preparação de material didático e gravação de aulas online. 
+
 
 <a href="https://drive.google.com/drive/folders/1g5kjlTKY23RU_eRfBEIb2e6PChV73v0c?usp=sharing" target="_blank">Comprovantes de Currículo</a>
 

@@ -71,8 +71,13 @@ user_groups:
 
 **Atividades principais**: Dar suporte ao desenvolvimento da programação e agenda; propor e elaborar as ementas e conteúdos detalhados; gravar conteúdo a ser disponibilizado; articular junto à equipe de técnicos; ser responsável pela gestão dos trabalhos e produtos e validação dos documentos finais.
 
+### Perfil
+
+**A**rquiteta, sócia da empresa Quali-A, pesquisadora da FAU/UnB e Professora de Pós-Graduação (IPOG)
+
 ### Experiência
 
-**P**esquisadora do LACAM desde 2009, participou como bolsista da capacitação do laboratório no processo de etiquetagem, tendo sido capacitada em todos os treinamentos do PROCEL/Eletrobrás específicos para a Rede 3E (RTQ-C, RAC-C, RTQ-R e RAC-R). No laboratório foi coordenadora técnica de diversas consultoria e pesquisas acadêmicas, destacando as etiquetas já oficializadas. Vem participando como docente de todos os cursos de Etiquetagem de Eficiência Energética de Edifícios Comerciais, de Serviços e Públicos realizados pelo LACAM (6 até o momento); foi coordenadora pedagógica do curso de Especialização à distância em Reabilitação Arquitetônica e Urbanística Sustentável (Reabilita) e atualmente ministra disciplinas de Eficiência Energética e Etiquetagem de Edifícios no Instituto de Pós-Graduação (IPOG), onde já contabiliza 15 cursos. Atua na empresa Quali-A como responsável técnica e Gerente da Qualidade.
+**P**esquisadora desde 2009, participou como bolsista da capacitação do laboratório no processo de etiquetagem, tendo sido capacitada em todos os treinamentos do PROCEL/Eletrobrás específicos para a Rede 3E (RTQ-C, RAC-C, RTQ-R e RAC-R). Coordenou diversas consultoria e pesquisas acadêmicas, destacando as etiquetas já oficializadas. Docente de todos os cursos de Etiquetagem de Eficiência Energética de Edifícios Comerciais, de Serviços e Públicos realizados pela Quali-A e LACAM/UnB; foi coordenadora pedagógica do Especialização à distância REABILITA e atualmente ministra disciplinas de Eficiência Energética, Conforto, Etiquetagem no IPOG. Atua na empresa Quali-A como responsável técnica e Gerente da Qualidade e Coordenação de Cursos.
+
 
 **[Comprovantes de Currículo]()**

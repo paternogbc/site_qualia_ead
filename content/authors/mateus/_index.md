@@ -12,7 +12,7 @@ weight: 5
 superuser: true
 
 # Role/position
-role:  Msc. Engenheiro Eletricista | Sócio da Smartly Energia Sustentável
+role:  MBA Eng. Engenheiro Eletricista | Sócio da Smartly Energia Sustentável
 
 # Organizations/Affiliations
 organizations:
@@ -64,11 +64,15 @@ user_groups:
 
 ## Especialista
 
-**Atividades principais**: 
+**Atividades principais**: Dar suporte ao desenvolvimento, adaptação de conteúdo para a temática de Eficiência Energética e Energias Renováveis, principalmente com foco na viabilidade técnica e econômica.  Participar ativamente dos cursos, incluindo a gravação de vídeo aulas.
+
+### Perfil 
+
+**E**ngenheiro Eletricista, sócio da Smartly Energia Sustentável e MBA em Gestão Empresarial pela FGV. Especialista em Energias Renováveis, e mais especificamente Energia Fotovoltaica. Experiência de milhares de simulações computacionais e estudos de viabilidade de sistemas fotovoltaicos e responsável pela implantação de  mais de 180 usinas fotovoltaicas.
 
 ### Experiência
 
-**G**raduado em Engenharia elétrica pela UnB e MBA pela FGV. Começou a atuar na área de energia solar em 2013, quando fez o seu primeiro projeto e estudo para o Tribunal de Contas do DF. Atualmente é engenheiro e sócio e diretor comercial da Smartly Energia Sustentável e sócio da Implanta Construções. Suas principais áreas de estudo são as energias renováveis, em especial a solar, e a eficiência energética de edifícios. Possui experiência no desenvolvimento, fornecimento de equipamentos e instalação de mais de 180 projetos fotovoltaicos, a maior parte em prédios e residências,, totalizando mais de 6 MW de potência instalada. Na empresa Smartly, é responsável elaborar milhares de estudos de viabilidade financeira e simulações computacionais de sistemas fotovoltaicos de todas as potências e perfis, utilizando softwares líderes no mercado, como PVSyst e Helioscope. Além disso, Mateus é um profissional que está sempre atualizado com o mercado, tendo participado de congressos e de diversas feiras do setor no Brasil e no mundo.
+**A**tua na área de energia solar em 2013, onde iniciou com projeto e estudo para o Tribunal de Contas do DF. Sócio diretor da Smartly Energia Sustentável e sócio da Implanta Construções. Realiza estudos e serviços de energias renováveis, em especial a solar, e eficiência energética de edifícios. Experiência no desenvolvimento e instalação de mais de 180 projetos fotovoltaicos,  totalizando mais de 6 MW de potência instalada e milhares de estudos de viabilidade financeira e simulações computacionais de sistemas fotovoltaicos de todas as potências e perfis, utilizando softwares líderes no mercado, como PVSyst e Helioscope.
 
 <a href="https://drive.google.com/drive/folders/1g5kjlTKY23RU_eRfBEIb2e6PChV73v0c?usp=sharing" target="_blank">Comprovantes de Currículo</a>
 
