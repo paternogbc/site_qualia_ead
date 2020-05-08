@@ -15,7 +15,7 @@ role: Profa. Dra. Arquiteta | Sócia diretora
 # Organizations/Affiliations
 organizations:
 - name: Quali-A
-  url: "http://www.quali-a.com"
+  url: "https://quali-a.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -48,20 +48,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:julia@qualia-a.com"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/cv_julia.pdf
+  
+user_groups:
+- Coordenadora
 ---
 
 ## Coordenadora
@@ -70,6 +73,6 @@ social:
 
 ### Experiência
 
-Pesquisadora do LACAM desde 2009, participou como bolsista da capacitação do laboratório no processo de etiquetagem, tendo sido capacitada em todos os treinamentos do PROCEL/Eletrobrás específicos para a Rede 3E (RTQ-C, RAC-C, RTQ-R e RAC-R). No laboratório foi coordenadora técnica de diversas consultoria e pesquisas acadêmicas, destacando as etiquetas já oficializadas. Vem participando como docente de todos os cursos de Etiquetagem de Eficiência Energética de Edifícios Comerciais, de Serviços e Públicos realizados pelo LACAM (6 até o momento); foi coordenadora pedagógica do curso de Especialização à distância em Reabilitação Arquitetônica e Urbanística Sustentável (Reabilita) e atualmente ministra disciplinas de Eficiência Energética e Etiquetagem de Edifícios no Instituto de Pós-Graduação (IPOG), onde já contabiliza 15 cursos. Atua na empresa Quali-A como responsável técnica e Gerente da Qualidade.
+**P**esquisadora do LACAM desde 2009, participou como bolsista da capacitação do laboratório no processo de etiquetagem, tendo sido capacitada em todos os treinamentos do PROCEL/Eletrobrás específicos para a Rede 3E (RTQ-C, RAC-C, RTQ-R e RAC-R). No laboratório foi coordenadora técnica de diversas consultoria e pesquisas acadêmicas, destacando as etiquetas já oficializadas. Vem participando como docente de todos os cursos de Etiquetagem de Eficiência Energética de Edifícios Comerciais, de Serviços e Públicos realizados pelo LACAM (6 até o momento); foi coordenadora pedagógica do curso de Especialização à distância em Reabilitação Arquitetônica e Urbanística Sustentável (Reabilita) e atualmente ministra disciplinas de Eficiência Energética e Etiquetagem de Edifícios no Instituto de Pós-Graduação (IPOG), onde já contabiliza 15 cursos. Atua na empresa Quali-A como responsável técnica e Gerente da Qualidade.
 
 **[Comprovantes de Currículo]()**

@@ -14,9 +14,19 @@
   weight = 2
 
 [[main]]
-  name = "Equipe"
-  url = "#about"
+  name = "Nossa equipe"
+  url = "#people"
   weight = 3
+
+[[main]]
+  name = "Depoimentos"
+  url = "#projects"
+  weight = 5
+
+[[main]]
+  name = "Contato"
+  url = "#contact"
+  weight = 99
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
