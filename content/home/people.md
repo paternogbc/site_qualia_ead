@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 5 # Order that this section will appear.
 
 title = "Conheça a equipe executora"
-subtitle = "Multidisciplinariedade - Qualidade Técnica - Experiência"
+subtitle = "Multidisciplinaridade - Qualidade Técnica - Experiência"
 
 [content]
   # Choose which groups/teams of users to display.
