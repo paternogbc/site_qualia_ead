@@ -12,24 +12,24 @@ subtitle = ""
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "star"
+  icon_pack = "fas"
+  name = "NOSSA MISSÃO"
+  description = "Atuar na promoção da qualidade ambiental, sustentabilidade e eficiência energética nos edifícios e cidades com inovação e credibilidade"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "NOSSA VISÃO"
+  description = "Ser referência de conhecimento e competência na prestação de serviços de eficiência energética e conforto ambiental."  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  name = "NOSSOS PRINCÍPIOS"
+  description = "Queremos ser identificados pela nossa contribuição para um mundo sustentável, com qualidade e inovação, baseados em serviços com praticidade, independência e credibilidade."
+  
 +++
