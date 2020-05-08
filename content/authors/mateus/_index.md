@@ -6,7 +6,7 @@ title: Mateus de Sordi
 authors:
 - mateus
 
-weight: 5
+weight: 4
 
 # Is this the primary user of the site?
 superuser: true

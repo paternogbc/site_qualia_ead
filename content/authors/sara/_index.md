@@ -82,6 +82,5 @@ Entre 2015 e 2018 esteve como consultora individual da UNESCO no Brasil, onde at
 
 **E**m dezembro de 2019, a convite da UNESCO, realizou trabalho voluntário em Havana/Cuba, como especialista em metodologias participativas e trabalho com jovens, no evento II UNESCO’s International Science School/ III Most School. Com objetivo de fortalecimento da Rede juventude pelo Meio Ambiente, países de realidade insular da América Latina e Caribe propuseram atividades para adaptação e mitigação de desastres ocorridos em decorrência das mudanças climáticas mundiais.
 
-**[Comprovantes de Currículo]()**
 
 

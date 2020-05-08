@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Baixar pdf"
-  cta_url = "https://qualia-eedus.netlify.app/files/Proposta_qualia.pdf"
+  cta_url = "https://drive.google.com/file/d/1SbHo6WIItci3HOwsIawVr1hqltujzW2O/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "download"
 +++
